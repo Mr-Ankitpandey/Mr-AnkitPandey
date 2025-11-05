@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hii there....👋 I am Ankit.<br>
-I am a CSE Student with keen interset in Full Stack Development and AI.<br>I love to explore new coming Gen AI tools and how we can increase our productitivity by using them.
+I am a CSE Student with keen interset in Full Stack Development and AI.<br>I love to explore new coming Gen AI tools and how we can increase our productitivity by using them.<br> Checkout my repositories to see my work.
 
 
 ## 🌐 Socials:
