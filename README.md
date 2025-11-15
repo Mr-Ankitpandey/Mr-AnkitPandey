@@ -1,6 +1,8 @@
-# 💫 About Me:
+<h1 align="center">Hi, I'm Ankit Pandey 👋</h1>
+
+
 Hii there....👋 I am Ankit.<br>
-I am a CSE Student with keen interset in Full Stack Development and AI.<br>I love to explore new coming Gen AI tools and how we can increase our productitivity by using them.<br> Checkout my repositories to see my work.
+I am a CSE Student with keen interset in Full Stack Development and AI.<br>I am exploring new coming Gen AI tools and how we can increase our productitivity by using them.<br> Checkout my repositories to see my work.
 
 
 ## 🌐 Socials:
