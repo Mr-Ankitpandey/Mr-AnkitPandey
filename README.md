@@ -1,35 +1,23 @@
 <h1 align="center">Hi, I'm Ankit Pandey 👋</h1> <p align="center"> Software Engineer (AI & Full Stack)</p> <p align="center"> Building AI-powered applications, LLM systems, and scalable full-stack products. </p>
-👨‍💻 About Me
+
+## About Me
 
 Hi there, I'm Ankit.
 
 I'm a Software Engineer passionate about building intelligent applications using Generative AI, LLMs, and modern web technologies.
 
-Currently working on:
+## Currently working on:
 
-🤖 AI Agents and LLM-powered applications
-🔍 Retrieval-Augmented Generation (RAG) systems
-⚡ Full-stack applications with React, Next.js, FastAPI, and cloud infrastructure
-☁️ Deploying scalable applications using AWS and Docker
+-  AI Agents and LLM-powered applications
+-  Retrieval-Augmented Generation (RAG) systems
+-  Full-stack applications with React, Next.js, FastAPI, and cloud infrastructure
+-  Deploying scalable applications on cloud (AWS, Azure, GCp)
 
-I enjoy exploring emerging AI technologies and transforming ideas into practical products.
 
-🚀 What I Build
-🤖 Generative AI Applications
-LLM Agents
-RAG pipelines
-AI automation workflows
-Prompt engineering
-LLM evaluation systems
-💻 Full Stack Applications
-React / Next.js frontends
-FastAPI and Node.js backends
-REST APIs
-Database-driven applications
-☁️ Cloud & DevOps
-AWS deployments
-Docker-based environments
-Production-ready application hosting
+## 🚀 What I Build
+-  Generative AI Applications : LLM Agents, RAG pipelines, AI automation workflows, LLM evaluation systems.
+-  Full Stack Applications: React / Next.js frontends, FastAPI and Node.js backends, REST APIs, Database-driven applications.
+-  Cloud & DevOps: AWS deployments, Docker-based environments, Production-ready application hosting.
 # 💻 Tech Stack:
 
 ## 👨‍💻 Languages
@@ -98,38 +86,39 @@ Production-ready application hosting
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-🌟 Featured Projects
-📄 DocsGPT - RAG Document Q&A Platform
+## 🌟 Featured Projects
+### 📄 DocsGPT - RAG Document Q&A Platform
 
 A full-stack RAG application where users can upload documents and ask questions using text or voice.
 
 Features:
 
-Document processing pipeline
-Semantic + keyword hybrid search
-Vector embeddings
-Source citation retrieval
-FastAPI backend with React frontend
-🤖 LinkedIn Agent with LLM Evaluation Harness
+- Document processing pipeline
+- Semantic + keyword hybrid search
+- Vector embeddings
+- Source citation retrieval
+- FastAPI backend with React frontend
+
+### 🤖 LinkedIn Agent with LLM Evaluation Harness
 
 An autonomous AI agent that researches information, generates content, and evaluates its own output.
 
 Features:
 
-Multi-stage AI workflow
-External research integration
-LLM-as-a-judge evaluation
-Human-in-the-loop approval system
-🌐 Connect With Me
-LinkedIn: ankitpandey101
-Email: ankitvijaypandey101@gmail.com
-Portfolio: ankitpandey101.netlify.app
+- Multi-stage AI workflow
+- External research integration
+- LLM-as-a-judge evaluation
+- Human-in-the-loop approval system
+
+## 🌐 Connect With Me
+- LinkedIn: ankitpandey101
+- Email: ankitvijaypandey101@gmail.com
 
 
 ## ⚡ Currently Exploring
-Advanced LLM application architecture
-AI Agent frameworks
-Scalable AI infrastructure
-Improving reliability and evaluation of AI systems
+- Advanced LLM application architecture
+- AI Agent frameworks
+- Scalable AI infrastructure
+- Improving reliability and evaluation of AI systems
 
-## Thanks for visiting! 🚀
+ <h2 align="center">Thanks for visiting! 🙂 </h2>
