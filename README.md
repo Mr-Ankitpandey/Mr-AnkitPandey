@@ -1,8 +1,18 @@
 <h1 align="center">Hi, I'm Ankit Pandey 👋</h1>
 
+👋 Hey, I'm Ankit Pandey.
 
-Hii there....👋 I am Ankit.<br>
-I am a CSE Student with keen interset in Full Stack Development and AI.<br>I am exploring new coming Gen AI tools and how we can increase our productitivity by using them.<br> Checkout my repositories to see my work.
+💻 Software Engineer | AI & Full Stack Developer
+
+Building with:
+- Python, FastAPI, React, Next.js
+- LLMs, RAG, AI Agents
+- Cloud-native applications
+
+Curious about the future of AI and how intelligent systems can solve real-world problems.
+
+⚡ Currently learning, building, and sharing my experiments here.
+
 
 
 ## 🌐 Socials:
