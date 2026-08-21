@@ -110,9 +110,10 @@ Features:
 - LLM-as-a-judge evaluation
 - Human-in-the-loop approval system
 
-## 🌐 Connect With Me
-- LinkedIn: ankitpandey101
-- Email: ankitvijaypandey101@gmail.com
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpandey101/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitvijaypandey101@gmail.com)
+
 
 
 ## ⚡ Currently Exploring
